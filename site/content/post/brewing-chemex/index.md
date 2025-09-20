@@ -12,7 +12,7 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 
 
-![](blog-chemex.jpg)
+![test](blog-chemex.jpg "test image")
 
 ## The little secrets of Chemex brewing
 
